@@ -1,0 +1,118 @@
+.face-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.face-page-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.face-page-faceunlock-page {
+  top: 0px;
+  left: 0px;
+  width: 438px;
+  height: 878px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  margin-right: 3px;
+  border-radius: 30px;
+  margin-bottom: 5px;
+  justify-content: center;
+  background-color: #DBDCEE;
+  border-color: black;
+  border-width: 1px;
+}
+.face-page-topbar {
+  top: 0px;
+  left: 0px;
+  width: 445px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  background-size: cover;
+  background-image: url("assets/img/rectangle73373-b53h-200h.png");
+  background-position: center;
+}
+.face-page-back-icon {
+  top: 14px;
+  fill: #ffffff;
+  left: 11px;
+  width: 64px;
+  height: 41px;
+  position: absolute;
+}
+.face-page-uname-pass {
+  top: 19px;
+  left: 132px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 25px;
+  align-self: center;
+  font-family: Cabin;
+}
+.face-page-text {
+  left: 113px;
+  color: var(--dl-color-primary-100);
+  bottom: 123px;
+  position: absolute;
+  font-size: 25px;
+  align-self: stretch;
+  font-family: Cabin;
+  font-weight: 700;
+}
+.face-page-image {
+  top: 199px;
+  left: 72px;
+  width: 296px;
+  height: 394px;
+  position: absolute;
+  object-fit: cover;
+}
+@media(max-width: 1600px) {
+  .face-page-faceunlock-page {
+    background-color: #DBDCEE;
+    left: 450px;
+    border-color: black;
+    border-width: 1px;
+  }
+}
+@media(max-width: 1200px) {
+  .face-page-faceunlock-page {
+    background-color: #DBDCEE;
+    border-color: black;
+    border-width: 1px;
+  }
+}
+@media(max-width: 361px) {
+  .face-page-faceunlock-page {
+    width: 360px;
+    margin-right: 0px;
+  }
+  .face-page-topbar {
+    top: 0px;
+    right: -1px;
+    width: 357px;
+  }
+  .face-page-uname-pass {
+    top: 22px;
+    left: 107px;
+  }
+  .face-page-text {
+    top: 702px;
+    left: 83px;
+  }
+  .face-page-image {
+    top: 200px;
+    left: 36px;
+  }
+}

@@ -1,0 +1,430 @@
+.tarik-tunai-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.tarik-tunai-page-tarik-tunai-page {
+  width: 361px;
+  height: 807px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  position: absolute;
+  justify-content: center;
+  flex-shrink: 0;
+  border-radius: 30px;
+  background-color: rgba(219, 220, 238, 1);
+}
+.tarik-tunai-page-body {
+  top: 0px;
+  left: -4px;
+  width: 363px;
+  height: 816px;
+  position: absolute;
+  border-radius: 10px;
+}
+.tarik-tunai-page-frame6 {
+  top: 76px;
+  left: -4px;
+  width: 367px;
+  height: 641px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tarik-tunai-page-pengaturan {
+  top: 141px;
+  left: -10px;
+  width: 363px;
+  height: 240px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tarik-tunai-page-rectangle1619 {
+  top: -160px;
+  left: 12px;
+  width: 363px;
+  height: 150px;
+  position: absolute;
+  border-radius: 5px;
+}
+.tarik-tunai-page-rectangle1628 {
+  top: 76px;
+  left: 12px;
+  width: 363px;
+  height: 411px;
+  position: absolute;
+  border-radius: 5px;
+}
+.tarik-tunai-page-rectangle1627 {
+  top: 0px;
+  left: 12px;
+  width: 363px;
+  height: 70px;
+  position: absolute;
+  border-radius: 5px;
+}
+.tarik-tunai-page-rectangle1622 {
+  top: 90px;
+  left: 19px;
+  width: 323px;
+  height: 50px;
+  position: absolute;
+}
+.tarik-tunai-page-rectangle1623 {
+  top: 140px;
+  left: 19px;
+  width: 323px;
+  height: 50px;
+  position: absolute;
+}
+.tarik-tunai-page-rectangle1625 {
+  top: 120px;
+  left: 10px;
+  width: 332px;
+  height: 52px;
+  position: absolute;
+}
+.tarik-tunai-page-rectangle1626 {
+  top: 120px;
+  left: 10px;
+  width: 332px;
+  height: 52px;
+  position: absolute;
+}
+.tarik-tunai-page-text {
+  top: 9px;
+  left: 30px;
+  color: rgba(35, 57, 174, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-text02 {
+  top: 93px;
+  left: 30px;
+  color: rgba(35, 57, 174, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-text04 {
+  top: 33px;
+  left: 30px;
+  color: rgba(0, 0, 0, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-rectangle1618 {
+  top: 21px;
+  left: 297px;
+  width: 71px;
+  height: 25px;
+  position: absolute;
+  border-color: rgba(64, 80, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+}
+.tarik-tunai-page-rectangle16181 {
+  top: 120px;
+  left: 30px;
+  width: 324px;
+  height: 27px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+}
+.tarik-tunai-page-text06 {
+  top: 127px;
+  left: 70px;
+  color: rgba(154, 154, 154, 1);
+  width: 173px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-text08 {
+  top: 170px;
+  left: 295px;
+  color: rgba(35, 57, 174, 1);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-rectangle530 {
+  top: 923px;
+  left: 14px;
+  width: 336px;
+  height: 52px;
+  position: absolute;
+  border-radius: 13px;
+}
+.tarik-tunai-page-text10 {
+  top: 939px;
+  left: 143px;
+  color: rgba(255, 255, 255, 1);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-text12 {
+  top: 898px;
+  left: 24px;
+  color: rgba(148, 195, 246, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-text14 {
+  top: 730px;
+  left: 140px;
+  color: rgba(35, 57, 174, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-text16 {
+  top: 68px;
+  left: 15px;
+  color: rgba(35, 57, 174, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-text18 {
+  top: 163px;
+  left: 39px;
+  color: rgba(0, 0, 0, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-top-bar {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 61px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tarik-tunai-page-topbar-body {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 61px;
+  position: absolute;
+}
+.tarik-tunai-page-text20 {
+  top: 14px;
+  left: 143px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-frame {
+  top: 41px;
+  left: 19px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tarik-tunai-page-sv-repoicon-carrier {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tarik-tunai-page-page1 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tarik-tunai-page-dribbble-light-preview {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tarik-tunai-page-icons {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tarik-tunai-page-arrowup351 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.tarik-tunai-page-div-login-button {
+  top: 730px;
+  left: 20px;
+  width: 316px;
+  height: 47px;
+  position: absolute;
+}
+.tarik-tunai-page-text22 {
+  top: 739px;
+  left: 97px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 19px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Cabin;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.tarik-tunai-page-frame1 {
+  top: 344px;
+  left: 31px;
+  width: 15px;
+  height: 13px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.tarik-tunai-page-sv-repoicon-carrier1 {
+  top: 0.5416666269302368px;
+  left: 0.625px;
+  width: 13.749984741210938px;
+  height: 11.91665267944336px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.tarik-tunai-page-vector {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 12px;
+  position: absolute;
+}

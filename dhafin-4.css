@@ -1,0 +1,1319 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-home-page {
+  width: 361px;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 30px;
+  justify-content: center;
+  background-color: rgba(219, 220, 238, 1);
+}
+.home-rectangle5 {
+  top: 619px;
+  left: 21px;
+  width: 318px;
+  height: 105px;
+  position: absolute;
+}
+.home-group1205 {
+  top: -463px;
+  left: -438px;
+  width: 1038.5196533203125px;
+  height: 1087.2542724609375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-rectangle529 {
+  top: 384.2542724609375px;
+  left: 437.33001708984375px;
+  width: 370px;
+  height: 700px;
+  position: absolute;
+}
+.home-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 65px;
+  position: absolute;
+}
+.home-text {
+  top: 101px;
+  left: 106px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-main-features {
+  top: 219px;
+  left: 21px;
+  width: 318px;
+  height: 198px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-rectangle4 {
+  top: 0px;
+  left: 0px;
+  width: 318px;
+  height: 198px;
+  position: absolute;
+  border-radius: 10px;
+}
+.home-ellipse2 {
+  top: 16px;
+  left: 19px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse25 {
+  top: 101px;
+  left: 96px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse26 {
+  top: 101px;
+  left: 174px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse27 {
+  top: 101px;
+  left: 252px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse24 {
+  top: 101px;
+  left: 19px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse21 {
+  top: 16px;
+  left: 96px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse22 {
+  top: 16px;
+  left: 174px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse23 {
+  top: 16px;
+  left: 252px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-text02 {
+  top: 156px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text04 {
+  top: 156px;
+  left: 103px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text06 {
+  top: 156px;
+  left: 182px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text08 {
+  top: 156px;
+  left: 255px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text10 {
+  top: 63px;
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text12 {
+  top: 63px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text14 {
+  top: 63px;
+  left: 180px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text16 {
+  top: 63px;
+  left: 254px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-whats-app-image20230402at21481 {
+  top: 16px;
+  left: 19px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at22471 {
+  top: 16px;
+  left: 96px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at22472 {
+  top: 16px;
+  left: 174px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at22473 {
+  top: 16px;
+  left: 252px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at22474 {
+  top: 101px;
+  left: 19px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at22475 {
+  top: 101px;
+  left: 174px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at22476 {
+  top: 101px;
+  left: 96px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-main-features1 {
+  top: 219px;
+  left: 21px;
+  width: 318px;
+  height: 198px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-rectangle41 {
+  top: 0px;
+  left: 0px;
+  width: 318px;
+  height: 198px;
+  position: absolute;
+  border-radius: 10px;
+}
+.home-ellipse21 {
+  top: 16px;
+  left: 19px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse251 {
+  top: 101px;
+  left: 96px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse261 {
+  top: 101px;
+  left: 174px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse271 {
+  top: 101px;
+  left: 252px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse241 {
+  top: 101px;
+  left: 19px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse211 {
+  top: 16px;
+  left: 96px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse221 {
+  top: 16px;
+  left: 174px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse231 {
+  top: 16px;
+  left: 252px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-text21 {
+  top: 156px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text23 {
+  top: 156px;
+  left: 103px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text25 {
+  top: 156px;
+  left: 182px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text27 {
+  top: 156px;
+  left: 255px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text29 {
+  top: 63px;
+  left: 15px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text31 {
+  top: 63px;
+  left: 99px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text33 {
+  top: 63px;
+  left: 180px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text35 {
+  top: 63px;
+  left: 254px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-whats-app-image20230402at214811 {
+  top: 16px;
+  left: 19px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at224711 {
+  top: 16px;
+  left: 96px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at224721 {
+  top: 16px;
+  left: 174px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at224731 {
+  top: 16px;
+  left: 252px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at224741 {
+  top: 101px;
+  left: 19px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at224751 {
+  top: 101px;
+  left: 174px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-whats-app-image20230402at224761 {
+  top: 101px;
+  left: 96px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-ellipse22 {
+  top: 25px;
+  left: 21px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.home-recent-fatures {
+  top: 465px;
+  left: 21px;
+  width: 318px;
+  height: 198px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-rectangle42 {
+  top: 0px;
+  left: 0px;
+  width: 318px;
+  height: 105px;
+  position: absolute;
+  border-radius: 10px;
+}
+.home-text40 {
+  top: 69px;
+  left: 251px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-whats-app-image20230402at224712 {
+  top: 15px;
+  left: 246px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.home-whats-app-image20230402at22477 {
+  top: 15px;
+  left: 246px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.home-text42 {
+  top: 133px;
+  color: rgba(40, 63, 183, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-line14 {
+  top: 156px;
+  left: 120px;
+  width: 69px;
+  height: 65px;
+  position: absolute;
+}
+.home-text44 {
+  top: 169px;
+  left: 49px;
+  color: rgba(0, 0, 0, 0.41999998688697815);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text46 {
+  top: 169px;
+  left: 208px;
+  color: rgba(0, 0, 0, 0.41999998688697815);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text48 {
+  top: 186px;
+  left: 67px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text50 {
+  top: 186px;
+  left: 228px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text52 {
+  top: 169px;
+  left: 37px;
+  color: rgba(43, 183, 21, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text54 {
+  top: 169px;
+  left: 193px;
+  color: rgba(227, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-whats-app-image20230402at21482 {
+  top: 17px;
+  left: 26px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-text56 {
+  top: 72px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-whats-app-image20230402at224771 {
+  top: 15px;
+  left: 136px;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+}
+.home-text58 {
+  top: 72px;
+  left: 144px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-navigasi {
+  top: 691px;
+  left: 0px;
+  width: 360px;
+  height: 109px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-text60 {
+  top: 9px;
+  left: 193px;
+  color: rgba(43, 182, 20, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text62 {
+  top: 9px;
+  left: 146px;
+  color: rgba(0, 0, 0, 0.41999998688697815);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-rectangle1620 {
+  top: 44px;
+  left: -5px;
+  width: 371px;
+  height: 79px;
+  position: absolute;
+  border-color: rgba(147, 195, 250, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+.home-ellipse1 {
+  top: 9px;
+  left: 140px;
+  width: 69px;
+  height: 69px;
+  position: absolute;
+}
+.home-ellipse23 {
+  top: 14px;
+  left: 145px;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+}
+.home-text64 {
+  top: 84px;
+  left: 310px;
+  color: rgba(173, 173, 173, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text66 {
+  top: 84px;
+  left: 234px;
+  color: rgba(173, 173, 173, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text68 {
+  top: 85px;
+  left: 22px;
+  color: rgba(40, 63, 183, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text70 {
+  top: 84px;
+  left: 83px;
+  color: rgba(173, 173, 173, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-frame {
+  top: 57px;
+  left: 89px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-sv-repoicon-carrier {
+  top: 0px;
+  left: 1px;
+  width: 22px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 24px;
+  position: absolute;
+}
+.home-frame1 {
+  top: 54px;
+  left: 25px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-sv-repoicon-carrier1 {
+  top: 0px;
+  left: 0px;
+  width: 25.904762268066406px;
+  height: 30.496000289916992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-page1 {
+  top: 0px;
+  left: 0px;
+  width: 25.904762268066406px;
+  height: 30.496000289916992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-dribbble-light-preview {
+  top: 0px;
+  left: 0px;
+  width: 25.904762268066406px;
+  height: 30.496000289916992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-icons {
+  top: 0px;
+  left: 0px;
+  width: 25.904762268066406px;
+  height: 30.496000289916992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-home1392 {
+  top: 0px;
+  left: 0px;
+  width: 26px;
+  height: 30px;
+  position: absolute;
+}
+.home-frame2 {
+  top: 55px;
+  left: 308px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-sv-repoicon-carrier2 {
+  top: 2.5px;
+  left: 2.5px;
+  width: 25px;
+  height: 25.000123977661133px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector1 {
+  top: 5.287475109100342px;
+  left: 8.400875091552734px;
+  width: 8px;
+  height: 8px;
+  opacity: 0.40;
+  position: absolute;
+}
+.home-vector2 {
+  top: 16.79387664794922px;
+  left: 4.07471227645874px;
+  width: 17px;
+  height: 8px;
+  opacity: 0.34;
+  position: absolute;
+}
+.home-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.home-frame3 {
+  top: 54px;
+  left: 240px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-sv-repoicon-carrier3 {
+  top: 7.776000022888184px;
+  left: 5px;
+  width: 22px;
+  height: 16.44900131225586px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 16px;
+  position: absolute;
+}
+.home-qri-logo {
+  top: 28px;
+  left: 159px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-qris {
+  top: 10px;
+  left: 0px;
+  width: 32px;
+  height: 13px;
+  position: absolute;
+}
+.home-qrisbox {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.home-text72 {
+  top: 119px;
+  left: 83px;
+  color: rgba(255, 255, 255, 1);
+  width: 179px;
+  height: auto;
+  position: absolute;
+  font-size: 30.34000015258789px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-icon-hide {
+  top: 130px;
+  left: 265px;
+  width: 21px;
+  height: 18px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-sv-repoicon-carrier4 {
+  top: 2.1937501430511475px;
+  left: 0px;
+  width: 21px;
+  height: 13.612500190734863px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector5 {
+  top: 0px;
+  left: 0px;
+  width: 21px;
+  height: 14px;
+  position: absolute;
+}
+.home-vector6 {
+  top: 5.2312493324279785px;
+  left: 8.662459373474121px;
+  width: 6px;
+  height: 6px;
+  position: absolute;
+}
+.home-rectangle1617 {
+  top: 163px;
+  left: 128px;
+  width: 112px;
+  height: 27px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+}
+.home-text74 {
+  top: 169px;
+  left: 149px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text76 {
+  top: 440px;
+  left: 21px;
+  color: rgba(40, 63, 183, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-text78 {
+  top: 121px;
+  left: 74px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15.34000015258789px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Ubuntu;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.home-frame4 {
+  top: 13px;
+  left: 305px;
+  width: 41px;
+  height: 42px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-sv-repoicon-carrier5 {
+  top: 7.875px;
+  left: 8.998720169067383px;
+  width: 23.002723693847656px;
+  height: 26.25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-vector7 {
+  top: 0px;
+  left: 0px;
+  width: 23px;
+  height: 21px;
+  position: absolute;
+}
+.home-vector8 {
+  top: 24.5px;
+  left: 9.084501266479492px;
+  width: 5px;
+  height: 2px;
+  position: absolute;
+}
+.home-logo-b-imo {
+  top: 7px;
+  left: 153px;
+  width: 51px;
+  height: 51px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home-layer1 {
+  top: 9.184067726135254px;
+  left: 9.179545402526855px;
+  width: 33.822967529296875px;
+  height: 32.32783508300781px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-g4167 {
+  top: 0px;
+  left: 0px;
+  width: 33.822967529296875px;
+  height: 32.32783508300781px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-g4175 {
+  top: 0px;
+  left: 0px;
+  width: 33.822967529296875px;
+  height: 32.32783508300781px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-g2643 {
+  top: 0px;
+  left: 0px;
+  width: 33.822967529296875px;
+  height: 32.32783508300781px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-g4219 {
+  top: 0px;
+  left: 0px;
+  width: 33.822967529296875px;
+  height: 32.32783508300781px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-g4225 {
+  top: 0px;
+  left: 0px;
+  width: 33.822967529296875px;
+  height: 32.32783508300781px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-text1310 {
+  top: 21.306739807128906px;
+  left: 6.691439151763916px;
+  width: 27.131526947021484px;
+  height: 11.02109432220459px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.home-path2616 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 11px;
+  position: absolute;
+}
+.home-path2618 {
+  top: 0.04067949578166008px;
+  left: 16.525041580200195px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.home-path6 {
+  top: 0px;
+  left: 0px;
+  width: 33px;
+  height: 18px;
+  position: absolute;
+}
+.home-line13 {
+  top: 684.525634765625px;
+  left: 35px;
+  width: 290px;
+  height: 7px;
+  position: absolute;
+  justify-content: center;
+}

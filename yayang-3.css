@@ -1,0 +1,401 @@
+.pin-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.pin-page-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  position: relative;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.pin-page-faceunlock-page {
+  top: 0px;
+  left: 0px;
+  width: 438px;
+  height: 878px;
+  display: flex;
+  opacity: 0.04;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-end;
+  flex-shrink: 0;
+  margin-right: 3px;
+  border-radius: 30px;
+  margin-bottom: 5px;
+  justify-content: center;
+  background-color: grey;
+  border-color: black;
+  border-width: 1px;
+}
+.pin-page-uname-pass {
+  top: 19px;
+  left: 132px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 25px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-topbar {
+  top: 0px;
+  left: 0px;
+  width: 445px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  background-size: cover;
+  background-image: url("/playground_assets/rectangle73373-b53h-200h.png");
+  background-position: center;
+}
+.pin-page-back-icon {
+  top: 14px;
+  fill: #ffffff;
+  left: 11px;
+  width: 64px;
+  height: 41px;
+  position: absolute;
+}
+.pin-page-uname-pass1 {
+  top: 19px;
+  left: 132px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 25px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-text {
+  left: 125px;
+  color: var(--dl-color-primary-100);
+  bottom: 122px;
+  position: absolute;
+  font-size: 25px;
+  align-self: stretch;
+  font-family: Cabin;
+  font-weight: 700;
+}
+.pin-page-image {
+  top: 199px;
+  left: 72px;
+  width: 296px;
+  height: 394px;
+  position: absolute;
+  object-fit: cover;
+}
+.pin-page-container2 {
+  width: 436px;
+  height: 874px;
+  display: flex;
+  align-items: flex-start;
+  background-color: #9c9494;
+}
+.pin-page-lupa-pin {
+  top: 371px;
+  left: 162px;
+  color: var(--dl-color-primary-700);
+  position: absolute;
+  font-size: 23px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-no3 {
+  top: 442px;
+  left: 295px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 45px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-no6 {
+  top: 526px;
+  left: 295px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 45px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-no61 {
+  top: 614px;
+  left: 295px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 45px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-no2 {
+  top: 442px;
+  left: 194px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 45px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-no5 {
+  top: 527px;
+  left: 196px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 45px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-no51 {
+  top: 615px;
+  left: 196px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 45px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-no52 {
+  top: 689px;
+  left: 195px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 45px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-no1 {
+  top: 442px;
+  left: 105px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 45px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-no4 {
+  top: 528px;
+  left: 102px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 45px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-no41 {
+  top: 617px;
+  left: 105px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 45px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-masukan-pin {
+  top: 217px;
+  left: 141px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 25px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-pin {
+  top: 19px;
+  left: 192px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 25px;
+  align-self: center;
+  font-family: Cabin;
+}
+.pin-page-back-icon1 {
+  top: 14px;
+  fill: #ffffff;
+  left: 11px;
+  width: 64px;
+  height: 41px;
+  position: absolute;
+}
+.pin-page-icon02 {
+  top: 292px;
+  fill: #ffffff;
+  left: 215px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.pin-page-icon04 {
+  top: 293px;
+  fill: #ffffff;
+  left: 99px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.pin-page-icon06 {
+  top: 292px;
+  fill: #ffffff;
+  left: 255px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.pin-page-icon08 {
+  top: 293px;
+  fill: #ffffff;
+  left: 139px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.pin-page-icon10 {
+  top: 292px;
+  fill: #ffffff;
+  left: 295px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.pin-page-icon12 {
+  top: 293px;
+  fill: #ffffff;
+  left: 179px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.pin-page-icon14 {
+  top: 698px;
+  fill: #ffffff;
+  left: 282px;
+  width: 54px;
+  height: 33px;
+  position: absolute;
+}
+
+@media(max-width: 1600px) {
+  .pin-page-container1 {
+    left: 450px;
+  }
+  .pin-page-faceunlock-page {
+    background-color: #ffffff;
+    left: 0px;
+    border-color: black;
+    border-width: 2px;
+  }
+
+}
+
+@media(max-width: 1200px) {
+  .pin-page-faceunlock-page {
+    border-color: black;
+    border-width: 2px;
+  }
+}
+@media(max-width: 361px) {
+  .pin-page-faceunlock-page {
+    width: 360px;
+    margin-right: 0px;
+  }
+  .pin-page-topbar {
+    top: 8px;
+    right: -3px;
+    width: 360px;
+  }
+  .pin-page-text {
+    left: 87px;
+    bottom: 122px;
+  }
+  .pin-page-image {
+    top: 227px;
+    right: 18px;
+  }
+  .pin-page-container2 {
+    width: 100%;
+  }
+  .pin-page-lupa-pin {
+    top: 374px;
+    left: 133px;
+  }
+  .pin-page-no3 {
+    top: 445px;
+    right: 70px;
+  }
+  .pin-page-no6 {
+    top: 529px;
+    right: 68px;
+  }
+  .pin-page-no61 {
+    top: 617px;
+    right: 68px;
+  }
+  .pin-page-no2 {
+    top: 445px;
+    left: 165px;
+  }
+  .pin-page-no5 {
+    top: 530px;
+    left: 167px;
+  }
+  .pin-page-no51 {
+    top: 618px;
+    left: 167px;
+  }
+  .pin-page-no52 {
+    top: 692px;
+    left: 166px;
+  }
+  .pin-page-no1 {
+    top: 445px;
+    left: 76px;
+  }
+  .pin-page-no4 {
+    top: 531px;
+    left: 73px;
+  }
+  .pin-page-no41 {
+    top: 620px;
+    left: 76px;
+  }
+  .pin-page-masukan-pin {
+    top: 220px;
+    left: 112px;
+  }
+  .pin-page-pin {
+    top: 22px;
+    left: 163px;
+  }
+  .pin-page-back-icon1 {
+    top: 15px;
+    left: 8px;
+  }
+  .pin-page-icon02 {
+    top: 295px;
+    left: 186px;
+  }
+  .pin-page-icon04 {
+    top: 296px;
+    left: 70px;
+  }
+  .pin-page-icon06 {
+    top: 295px;
+    left: 226px;
+  }
+  .pin-page-icon08 {
+    top: 296px;
+    left: 110px;
+  }
+  .pin-page-icon10 {
+    top: 295px;
+    right: 64px;
+  }
+  .pin-page-icon12 {
+    top: 296px;
+    left: 150px;
+  }
+}

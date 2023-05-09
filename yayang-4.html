@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="english">
+
+<head>
+  <title>Login - exported project</title>
+  <meta property="og:title" content="Login - exported project" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <meta property="twitter:card" content="summary_large_image" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&amp;display=swap"
+    data-tag="font" />
+  <link rel="stylesheet" href="./style.css" />
+  <link href="./yayang-4.css" rel="stylesheet" />
+</head>
+<body>
+  <div>
+    <div class="login-page">
+      <div class="main-login-container">
+        <div class="login-home-page">
+          <img alt="topbar" src="assets/img/topbar.png" class="topbar" />
+          <div class="welcome-container">
+            <span class="login-welcome-text">Selamat Datang</span>
+          </div>
+          <img src="assets/img/brimoicon-200h.png" alt="image" class="login-image" />
+          <img alt="image" src="assets/img/bg1.png" class="login-image1" />
+          <img alt="Background2144" src="assets/img/loginImage.png" class="login-background" />
+          <span class="login-text">Login</span>
+          <div class="login-input-container">
+            <img alt="profile13352145" src="assets/img/profile.svg"
+              class="login-profile1335" />
+            <img src="https://play.teleporthq.io/static/svg/default-img.svg" class="login-line8" />
+            <img alt="Vector2155" src="assets/img/password.svg" class="login-vector" />
+            <input type="text" id="uname" required="" placeholder="Username" class="login-username-input input" />
+            <input type="password" id="passwd" required="" placeholder="Password" class="login-password-input input" />
+            <img alt="Vector2165" src="assets/img/hidepass.png" class="login-vector1" onclick="myfunction()" id="showpass" />
+          </div>
+          <a href="yayang-5.html"><button class="login-button button">Login</button></a>
+          <button class="login-button1 button">Button</button>
+          <img alt="FingderPrintIcon2144" src="assets/img/fingderprinticon.svg"
+            class="login-fingder-print-icon" />
+          <a href="coba.html"><span class="login-text-forgot">Lupa Username/Password?</span></a>
+          <a href="yayang-2.html"><span class="login-text-Remind">Remind Me</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>
+    function myfunction() {
+      var x = document.getElementById("passwd");
+      var y = document.getElementById("showpass");
+      if (x.type === "password") {
+        x.type = "text";
+        y.src = "assets/img/showpass.png"
+      } else {
+        x.type = "password";
+        y.src = "assets/img/hidepass.png"
+      }
+    }
+  </script>
+</body>
+</html>
