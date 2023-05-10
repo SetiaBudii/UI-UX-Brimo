@@ -199,12 +199,16 @@
   align-items: flex-start;
   flex-shrink: 1;
 }
+
+.pengaturan-fitur-frame img{
+ position: relative;
+} 
+
 .pengaturan-fitur-arrowup351 {
   top: 0px;
   left: 0px;
   width: 20px;
   height: 20px;
-  position: absolute;
 }
 .pengaturan-fitur-text4 {
   top: 17px;

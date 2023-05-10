@@ -333,3 +333,8 @@
     margin-top: 15px;
     margin-left: 10px;
 }
+
+.bg-gray .top-nav{
+    height: 63px;
+    border-bottom: 3px solid #0000004f;
+}
