@@ -296,3 +296,40 @@
    border: none;
    background-color: transparent;
 }
+
+.uname{
+    background-color: rgba(0, 0, 0, 0.122);
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 70px;
+    border-radius: 5px;
+}
+
+.uname img{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.text-black{
+    color: black;
+}
+
+.text-uname{
+    text-align: left;
+    margin-top: 12px;
+}
+
+.pass{
+    background-color: rgba(0, 0, 0, 0.122);
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 70px;
+    border-radius: 5px;
+}
+
+.pass img{
+    margin-top: 15px;
+    margin-left: 10px;
+}
