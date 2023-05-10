@@ -1,0 +1,134 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+.wrapper {
+    margin: 0 auto;
+    width: 360px;
+    height: 800px;
+    background: white;
+    border-style: solid;
+    border-top-left-radius: 30px 30px;
+    border-top-right-radius: 30px 30px;
+    border-bottom-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+}
+
+.row {
+    margin-bottom: -12px;
+}
+
+.top-nav {
+    height: 70px;
+    background: #4050E1;
+    border-top-left-radius: 30px 30px;
+    border-top-right-radius: 30px 30px;
+}
+
+.h2 {
+    text-align: center;
+    padding-top: 14px;
+    color: #fff;
+    width: 200px;
+    margin-left: 50px;
+}
+
+.sliders {
+    font-size: 20px;
+    color: white;
+}
+
+.aktivitas {
+    font-family: 'Outfit', sans-serif;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    margin: 20px -5px -20px;
+}
+
+.icon-transfer {
+    height: 50px;
+    width: auto;
+    margin-left: -10px;
+}
+
+.sukses {
+    background-color: #2FCA6D;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    height: 24px;
+    width: 92px;
+}
+
+.sukses-card {
+    margin-left: -8px;
+    padding-right: 10px;
+    line-height: 5px;
+    margin-top: -8px;
+}
+
+.text-aktivitas {
+    margin-left: -10px;
+    font-size: 17px;
+}
+
+.heading-tipe {
+    font-weight: 700;
+}
+
+.text-tanggal {
+    color: #ADADAD;
+}
+
+.text-rekening {
+    font-weight: 500;
+}
+
+.btn-primary {
+    background: #4050E1;
+    width: 100%;
+    height: 50px;
+    font-weight: 700;
+}
+
+.btn-lanjutkan {
+    bottom: 0;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.navbar {
+    background-color: white;
+    position: absolute;
+    top: 725px;
+    width: 353px;
+    height: 70px;
+    box-shadow: 0 -2px 2px 0 #93C3FB;
+    border-bottom-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+}
+
+.navbar-bottom {
+    margin-bottom: 0px;
+}
+
+.navbar-icon {
+    margin: 0 2px;
+}
+
+.icon {
+    height: 47px;
+    width: auto;
+}
+
+.navbar-icon-left {
+    margin-right: 45px;
+}
+
+.navbar-icon-right {
+    margin-left: 45px;
+}
+
+.QR {
+    position: absolute;
+    margin-left: 139px;
+    top: 690px;
+}

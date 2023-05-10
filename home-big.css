@@ -1,0 +1,269 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+.wrapper {
+    margin: 0 auto;
+    width: 360px;
+    height: 800px;
+    background: #DBDCEE;
+    border-style: solid;
+    border-top-left-radius: 30px 30px;
+    border-top-right-radius: 30px 30px;
+    border-bottom-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+    background-image: url("assets/img/home-bg.png");
+    background-repeat: no-repeat;
+}
+
+.row {
+    margin-bottom: -12px;
+}
+
+.top-nav {
+    height: 70px;
+    background: #4050E1;
+    box-shadow: 0  0.5px 2px #3a3a3a;
+    border-top-left-radius: 25px 25px;
+    border-top-right-radius: 25px 25px;
+}
+
+.h2 {
+    text-align: center;
+    padding-top: 14px;
+    color: #fff;
+    width: 200px;
+}
+
+hr {
+    margin: 0;
+}
+
+.status {
+    height: 19px;
+    width: 19px;
+    background-color: #00FF00;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white;
+    border-width: 1.5px;
+    display: inline-block;
+}
+
+#logo-brimo{
+    margin: 0 70px;
+}
+
+#saldo-rekening{
+    margin-top: 35px;
+}
+
+#nominal{
+    margin: -10px 10px 0;
+    padding-bottom: 20px;
+}
+
+.rekening-lain{
+    border-color: white;
+    background: #4050E1;
+    width: 39%;
+    height: 35px;
+    font-weight: 300;
+    margin: 10px auto;
+    font-size: 17px;
+    padding-bottom: 33px;
+    align-items: center;
+}
+
+.mutasi {
+    margin: 30px 0;
+    font-size: 15px;
+}
+
+.card-mutasi {
+    margin: 0 8px -15px;
+    border-radius: 10px;
+    box-shadow: 0 3px 4px rgb(159, 159, 159);
+}
+
+.icon-rekening,
+.icon-tanggal {
+    height: auto;
+    width: 55px;
+    margin: 0 -10px;
+}
+
+.cari-mutasi {
+    color: #283FB7;
+    font-weight: 700;
+    margin: -10px -10px -20px -10px;
+}
+
+#cari-mutasi {
+    font-size: 19px;
+}
+
+.catatan-mutasi {
+    background-color: white;
+    padding-top: 5px;
+    height: 380px;
+}
+
+.tanggal-mutasi {
+    color: #283FB7;
+    font-weight: 700;
+    margin: 10px 0 0 7px;
+    font-size: 19px;
+}
+
+.text-mutasi {
+    margin-left: 10px;
+}
+
+.pilih-mutasi {
+    margin-bottom: 1px;
+    color: #958D8D;
+    font-size: 17px;
+}
+
+.isi-mutasi {
+    font-weight: 500;
+    font-size: 21px;
+}
+
+.arrow-right {
+    position: absolute;
+    right: 0;
+    margin: 30px -5px;
+    color: #4050E1;
+}
+
+.fitur-terkini-big{
+    font-size: 18px;
+}
+
+.aktivitas {
+    font-family: 'Outfit', sans-serif;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    margin: 20px 5px -20px;
+}
+
+.row-aktivitas {
+    margin: 10px 0;
+}
+
+#tanggal {
+    margin-bottom: 0;
+    margin-left: -5px;
+}
+
+.icon-transfer {
+    height: 45px;
+    width: auto;
+    margin-left: -10px;
+}
+
+.teks {
+    margin: 20px 0;
+}
+
+.text-aktivitas {
+    font-size: 14px;
+    margin-left: -10px;
+    padding-right: 0;
+}
+
+.heading-tipe {
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.heading {
+    font-size: 19px;
+    font-weight: 700;
+    color: #243AAE;
+    margin: -10px 10px;
+    text-align: start;
+}
+
+#rekening {
+    margin-left: -5px;
+}
+
+.text-rekening {
+    font-weight: 500;
+}
+
+.text-tanggal {
+    color: #ADADAD;
+    font-size: 15px;
+}
+
+.btn-lanjutkan {
+    bottom: 0;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.navbar {
+    background-color: white;
+    position: absolute;
+    top: 725px;
+    width: 353px;
+    height: 70px;
+    margin-left: -12px;
+    box-shadow: 0 -2px 2px 0 #93C3FB;
+    border-bottom-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+}
+
+.navbar-bottom {
+    margin-bottom: 0px;
+}
+
+.navbar-icon {
+    margin: 0 2px;
+}
+
+.icon {
+    height: 47px;
+    width: auto;
+}
+
+.navbar-icon-left {
+    margin-right: 45px;
+}
+
+.navbar-icon-right {
+    margin-left: 45px;
+}
+
+.QR {
+    position: absolute;
+    margin-left: 127px;
+    top: 690px;
+}
+
+.margin-top-50 {
+    margin-top: 50px;
+}
+
+.font-size-20 {
+    font-size: 20px;
+}
+
+.font-size-30{
+    font-size: 30px;
+}
+
+.white{
+    color: white;
+}
+
+.font-weight-500{
+    font-weight: 500;
+}
+
+.font-weight-700{
+    font-weight: 700;
+}

@@ -1,0 +1,85 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+.wrapper {
+    margin: 0 auto;
+    width: 360px;
+    height: 800px;
+    background: #DBDCEE;
+    border-style: solid;
+    border-top-left-radius: 30px 30px;
+    border-top-right-radius: 30px 30px;
+    border-bottom-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+}
+
+.top-nav {
+    height: 70px;
+    background: #4050E1;
+    border-top-left-radius: 25px 25px;
+    border-top-right-radius: 25px 25px;
+}
+
+.h2 {
+    text-align: center;
+    padding-top: 14px;
+    margin-right: 20px;
+    color: #fff;
+    width: 200px;
+}
+
+a {
+    color: white;
+}
+
+.bi-arrow-left-short {
+    font-size: 40px;
+}
+
+.teks {
+    margin: 20px 0;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.card {
+    margin-bottom: 10px;
+    box-shadow: 0 3px 3px 0 #656565;
+}
+
+.btn-ukuran-teks {
+    color: #4050E1;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.bi-toggle-on {
+    margin-left: 90px;
+    font-size: 21px;
+}
+
+.bi-toggle-off {
+    margin-left: 90px;
+    font-size: 21px;
+}
+
+.kosong {
+    width: auto;
+    height: 420px;
+}
+
+.btn-primary {
+    background: #4050E1;
+    width: 100%;
+    height: 50px;
+    font-weight: 700;
+    padding-top: 10px;
+}
+
+.btn-lanjutkan {
+    bottom: 0;
+    text-align: center;
+    padding-top: 50px;
+}
