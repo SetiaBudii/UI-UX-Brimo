@@ -1,0 +1,374 @@
+.remind-me-home-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .remind-me-home-reminde-me-home {
+    top: 7px;
+    right: -635px;
+    width: 100%;
+    height: 807px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 30px;
+  }
+  .remind-me-home-container1 {
+    top: 0px;
+    flex: 0 0 auto;
+    left: 0px;
+    width: 361px;
+    height: 781px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    border-color: var(--dl-color-gray-black);
+    border-width: 3px;
+    border-radius: 15px;
+    background-color: #DBDCEE;
+  }
+  .remind-me-home-frame6 {
+    left: -1px;
+    width: 367px;
+    bottom: 76px;
+    height: 641px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .remind-me-home-akun {
+    top: 0px;
+    left: 19px;
+    width: 325px;
+    height: 53px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .remind-me-home-rectangle1618 {
+    top: 0px;
+    left: 0px;
+    width: 332px;
+    height: 61px;
+    position: absolute;
+    border-radius: 5px;
+  }
+  .remind-me-home-frame8 {
+    gap: 10px;
+    top: 10px;
+    left: 5px;
+    width: 147px;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    align-items: flex-start;
+  }
+  .remind-me-home-text {
+    color: rgba(35, 57, 174, 1);
+    height: auto;
+    font-size: 17px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .remind-me-home-rectangle1625 {
+    top: 3px;
+    left: 0px;
+    width: 332px;
+    height: 52px;
+    position: absolute;
+  }
+  .remind-me-home-pengaturan {
+    top: 124px;
+    left: 4px;
+    width: 363px;
+    height: 180px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .remind-me-home-rectangle1619 {
+    top: -10px;
+    left: 11px;
+    width: 342px;
+    height: 150px;
+    position: absolute;
+    border-radius: 5px;
+  }
+  .remind-me-home-line8 {
+    top: 40px;
+    left: 18.97216796875px;
+    width: 323px;
+    height: 0px;
+    position: absolute;
+  }
+  .remind-me-home-line9 {
+    top: 90px;
+    left: 18.97216796875px;
+    width: 323px;
+    height: 0px;
+    position: absolute;
+  }
+  .remind-me-home-line10 {
+    top: 140px;
+    left: 18.97216796875px;
+    width: 323px;
+    height: 0px;
+    position: absolute;
+  }
+  .remind-me-home-text02 {
+    top: 105px;
+    left: 19px;
+    color: rgba(0, 0, 0, 1);
+    width: 158px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .remind-me-home-text04 {
+    top: 55px;
+    left: 19px;
+    color: rgba(0, 0, 0, 1);
+    width: 168px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .remind-me-home-text06 {
+    top: 8px;
+    left: 19px;
+    color: rgba(0, 0, 0, 1);
+    width: 218px;
+    height: auto;
+    position: absolute;
+    font-size: 15px;
+    font-style: Bold;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .remind-me-home-pk {
+    top: 40px;
+    left: 19px;
+    width: 323px;
+    height: 50px;
+    position: absolute;
+  }
+  .remind-me-home-ba {
+    top: 90px;
+    left: 19px;
+    width: 323px;
+    height: 50px;
+    position: absolute;
+  }
+  .remind-me-home--ud-p {
+    top: -10px;
+    left: 19px;
+    width: 323px;
+    height: 50px;
+    position: absolute;
+  }
+  .remind-me-home-text08 {
+    top: 3px;
+    left: 332px;
+    color: rgba(36, 58, 174, 1);
+    width: 10px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Alef;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .remind-me-home-text09 {
+    top: 52px;
+    left: 332px;
+    color: rgba(36, 58, 174, 1);
+    width: 10px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Alef;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .remind-me-home-text10 {
+    top: 101px;
+    left: 332px;
+    color: rgba(36, 58, 174, 1);
+    width: 10px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Alef;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .remind-me-home-line81 {
+    top: 41px;
+    left: 19px;
+    width: 320px;
+    height: 0px;
+    position: absolute;
+    border-color: var(--dl-color-gray-900);
+    border-width: 1px;
+  }
+  .remind-me-home-line82 {
+    top: 88px;
+    left: 19px;
+    width: 320px;
+    height: 0px;
+    position: absolute;
+    border-color: var(--dl-color-gray-900);
+    border-width: 1px;
+  }
+  .remind-me-home-top-bar {
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 61px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .remind-me-home-topbar-body {
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 61px;
+    position: absolute;
+  }
+  .remind-me-home-text11 {
+    top: 14px;
+    left: 114px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    font-style: Bold;
+    text-align: center;
+    font-family: Cabin;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .remind-me-home-icon {
+    top: 13px;
+    fill: #ffffff;
+    left: 16px;
+    width: 42px;
+    height: 35px;
+    position: absolute;
+  }
+  .remind-me-home-frame {
+    top: 104px;
+    left: 297px;
+    width: 37px;
+    height: 36px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .remind-me-home-sv-repoicon-carrier {
+    top: 10.5px;
+    left: 3.0833334922790527px;
+    width: 30.833332061767578px;
+    height: 15px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .remind-me-home-vector {
+    top: 0px;
+    left: 0px;
+    width: 31px;
+    height: 15px;
+    position: absolute;
+  }
+  @media(max-width: 1600px) {
+    .remind-me-home-reminde-me-home {
+      top: 3px;
+      right: -432px;
+      align-self: center;
+      justify-content: flex-start;
+      background-color: transparent;
+    }
+  }
+  @media(max-width: 1200px) {
+    .remind-me-home-reminde-me-home {
+      top: 7px;
+      right: -432px;
+    }
+    .remind-me-home-line81 {
+      width: 390px;
+    }
+    .remind-me-home-line82 {
+      width: 390px;
+    }
+  }
+  @media(max-width: 767px) {
+    .remind-me-home-icon {
+      top: 11px;
+      fill: #D9D9D9;
+      left: 17px;
+      width: 40px;
+      height: 38px;
+      position: absolute;
+    }
+  }
+  @media(max-width: 361px) {
+    .remind-me-home-line81 {
+      width: 320px;
+    }
+    .remind-me-home-line82 {
+      width: 320px;
+    }
+  }
+  

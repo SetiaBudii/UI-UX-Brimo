@@ -428,3 +428,16 @@
   height: 12px;
   position: absolute;
 }
+
+
+.tarik-tunai-page-icon2 {
+  width: 34px;
+  height: 204px;
+  bottom: 70px;
+  left: 20px;
+  position: relative;
+}
+
+.tarik-tunai-page-icon2 path{
+  fill: #fff;
+}
